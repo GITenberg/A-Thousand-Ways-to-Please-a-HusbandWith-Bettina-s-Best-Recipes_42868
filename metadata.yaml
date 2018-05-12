@@ -1,0 +1,34 @@
+_repo: A-Thousand-Ways-to-Please-a-HusbandWith-Bettina-s-Best-Recipes_42868
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Colbourne, Elizabeth
+    gutenberg_agent_id: '41897'
+    url: http://www.gutenberg.org/2009/agents/41897
+covers:
+- cover_type: archival
+  image_path: 42868-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: LeCron, Helen Cowles
+    birthdate: 1886
+    deathdate: 1963
+    gutenberg_agent_id: '40333'
+    url: http://www.gutenberg.org/2009/agents/40333
+  - agent_name: Weaver, Louise Bennett
+    gutenberg_agent_id: '41896'
+    url: http://www.gutenberg.org/2009/agents/41896
+description: ''
+gutenberg_issued: '2013-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42868'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cooking, American'
+- !lcc 'TX'
+title: A Thousand Ways to Please a Husband with Bettina's Best Recipes
+url: http://www.gutenberg.org/ebooks/42868
