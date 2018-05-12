@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '41896'
     url: http://www.gutenberg.org/2009/agents/41896
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42868#A-Thousand-Ways-to-Please-a-HusbandWith-Bettina-s-Best-Recipes
 gutenberg_issued: '2013-06-04'
 gutenberg_type: Text
 identifiers:
